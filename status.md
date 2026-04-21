@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Vraj Amin
 
 #### Your section leader's name
 
-TODO
+Professor Rosen
 
 #### Project title
 
-TODO
+Dodge the Falling Objects
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We started the code for our game. It is only a little. We have the base down.
 
 #### What have you not done for your project yet?
 
-TODO
+We haven't finished our project completely. We haven't added our extra boosts or powerups yet.
 
 #### What problems, if any, have you encountered?
 
-TODO
+We encountered problems like trying to get the objects to fall or actually run. Eventually, we figured it out.
